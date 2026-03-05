@@ -6619,7 +6619,7 @@
 			)
 		)
 	)
-	(global_label "CLKN"
+	(global_label "CLK-"
 		(shape input)
 		(at 195.58 44.45 0)
 		(fields_autoplaced yes)
@@ -6631,7 +6631,7 @@
 		)
 		(uuid "8559d185-6043-4deb-ab46-05273617c2af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.4638 44.45 0)
+			(at 203.7057 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6905,7 +6905,7 @@
 			)
 		)
 	)
-	(global_label "CLKP"
+	(global_label "CLK+"
 		(shape input)
 		(at 195.58 41.91 0)
 		(fields_autoplaced yes)
@@ -6917,7 +6917,7 @@
 		)
 		(uuid "a75ea0af-2932-4636-8aec-7b9f7d9fa72f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.4033 41.91 0)
+			(at 203.7057 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
