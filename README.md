@@ -1,5 +1,5 @@
 
-# Schematic of IBM/Lenovo ML2 edge connector
+# Schematic of IBM/Lenovo ML2 edge connector and socket 
 
 
 
