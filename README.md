@@ -21,3 +21,14 @@
 |HSTX-_0-7||
 |HSRX+_0-7||
 |HSRX-_0-7||
+
+
+
+
+
+
+
+
+
+
+# https://www.digikey.com/en/products/detail/molex/1717742118/4504792
