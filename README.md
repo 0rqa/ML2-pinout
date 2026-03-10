@@ -1,7 +1,14 @@
 
 # Schematic of IBM/Lenovo ML2 edge connector and socket 
 
+<br>
 
+[![Image](https://github.com/0rqa/ML2-pinout/blob/main/Kicad/ML2_interface_pinout/ML2_interface_pinout_01.png)](https://github.com/0rqa/ML2-pinout/blob/main/Kicad/ML2_interface_pinout/ML2_interface_pinout_01.pdf)
+
+
+<br>
+<br>
+<br>
 
 
 | pin name | description  |
@@ -26,7 +33,9 @@
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
