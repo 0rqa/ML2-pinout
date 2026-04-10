@@ -1,3 +1,5 @@
+# Pinout of IBM/Lenovo ML2 edge connector and socket 
+
 >[!Caution]
 > Disclaimer / Reverse Engineering Notice: <br> <br>
 > All information, diagrams, and schematics in this repository were obtained through independent reverse engineering, measurement, and observation. 
@@ -11,12 +13,8 @@
 >[!NOTE]
 > This repo is still under construction, or as some know WIP
 
-<br>
 
-# Schematic of IBM/Lenovo ML2 edge connector and socket 
-
-<br>
-
+---
 
 
 <br>
