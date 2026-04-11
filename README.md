@@ -34,7 +34,7 @@
 |12V_aux / 3.3V_aux|Voltage present always. MAX 15W|
 |12V / 3.3V|Voltage present only in operation.|
 |SDA / SCL |I2C 3.3V  data / clock line|
-|I2C_reset|I2C reset pin|
+|I2C_reset|I2C reset line|
 |I2C_int||
 |/|/|
 |PCIE_wake||
