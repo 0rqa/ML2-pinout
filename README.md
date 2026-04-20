@@ -60,4 +60,3 @@
 
 
 
-# https://www.digikey.com/en/products/detail/molex/1717742118/4504792
