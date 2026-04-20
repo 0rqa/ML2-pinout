@@ -17,6 +17,9 @@
 
 ---
 
+<br>
+    
+- [molex](https://www.digikey.com/en/products/detail/molex/1717742118/4504792) 1717742118 - 118 pin 0.8mm edge connector
 
 <br>
 
