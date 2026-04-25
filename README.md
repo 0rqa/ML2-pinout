@@ -33,21 +33,24 @@
 
 | pin name | description  |
 |----------|--------------|
-| ML_P_OK | High when 12V, 3.3V, 12V_aux, 3.3V_aux are in spec. |
-|12V_aux / 3.3V_aux|Voltage present always. MAX 15W|
-|12V / 3.3V|Voltage present only in operation.|
-|SDA / SCL |I2C 3.3V  data / clock line|
-|I2C_reset|I2C reset line|
-|I2C_int||
+|ML_P_OK| High when 12V, 3.3V, 12V_aux, 3.3V_aux are in spec.|
+|12V_aux|Standby 12V rail, always high. MAX 15W|
+|3.3V_aux|Standby 3.3V rail, always high MAX 1.2W|
+|12V|Main 12V rail, high when system is powered on MAX 30W|
+|3.3V|Main 3.3V rail, high when system is powered on MAX 1.2W|
+|SDA / SCL |I2C data / clock line, 3.3V logic level|
+|I2C_reset|I2C reset pin|
+|I2C_int| I2C interrupt pin|
+|RX / TX| Receive / transmit uart pins |
 |/|/|
-|PCIE_wake||
-|PCIE_reset||
+|PCIE_wake| PCIE wake pin (WAKE#)|
+|PCIE_reset|PCIE reset pin (PERST#)|
 |CLK+|Posistive - 100MHz PCIE bus Referance clock|
 |CLK-|Negative - 100MHz PCIE bus Referance clock|
-|HSTX+_0-7||
-|HSTX-_0-7||
-|HSRX+_0-7||
-|HSRX-_0-7||
+|HSTX+_0-7|Positive pins of transmit differential pair of PCIE |
+|HSTX-_0-7|Negative pins of transmit differential pair of PCIE|
+|HSRX+_0-7|Positive pins of receive differential pair of PCIE|
+|HSRX-_0-7|Negative pins of receive differential pair of PCIE|
 
 
 
